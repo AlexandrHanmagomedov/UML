@@ -1,0 +1,16 @@
+C:\Users\std\source\repos\chains\chains\bin\Debug\chains.exe.config
+C:\Users\std\source\repos\chains\chains\bin\Debug\chains.exe
+C:\Users\std\source\repos\chains\chains\bin\Debug\chains.pdb
+C:\Users\std\source\repos\chains\chains\obj\Debug\chains.csproj.AssemblyReference.cache
+C:\Users\std\source\repos\chains\chains\obj\Debug\chains.csproj.SuggestedBindingRedirects.cache
+C:\Users\std\source\repos\chains\chains\obj\Debug\chains.csproj.CoreCompileInputs.cache
+C:\Users\std\source\repos\chains\chains\obj\Debug\chains.exe
+C:\Users\std\source\repos\chains\chains\obj\Debug\chains.pdb
+\\FS\Public\Студенты\Основы UML\chains\chains\bin\Debug\chains.exe.config
+\\FS\Public\Студенты\Основы UML\chains\chains\bin\Debug\chains.exe
+\\FS\Public\Студенты\Основы UML\chains\chains\bin\Debug\chains.pdb
+\\FS\Public\Студенты\Основы UML\chains\chains\obj\Debug\chains.csproj.AssemblyReference.cache
+\\FS\Public\Студенты\Основы UML\chains\chains\obj\Debug\chains.csproj.SuggestedBindingRedirects.cache
+\\FS\Public\Студенты\Основы UML\chains\chains\obj\Debug\chains.csproj.CoreCompileInputs.cache
+\\FS\Public\Студенты\Основы UML\chains\chains\obj\Debug\chains.exe
+\\FS\Public\Студенты\Основы UML\chains\chains\obj\Debug\chains.pdb

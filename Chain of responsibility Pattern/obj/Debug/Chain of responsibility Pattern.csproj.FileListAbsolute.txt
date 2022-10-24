@@ -1,0 +1,8 @@
+U:\Основы UML\Patterns\Chain of responsibility Pattern\bin\Debug\Chain of responsibility Pattern.exe.config
+U:\Основы UML\Patterns\Chain of responsibility Pattern\bin\Debug\Chain of responsibility Pattern.exe
+U:\Основы UML\Patterns\Chain of responsibility Pattern\bin\Debug\Chain of responsibility Pattern.pdb
+U:\Основы UML\Patterns\Chain of responsibility Pattern\obj\Debug\Chain of responsibility Pattern.csproj.AssemblyReference.cache
+U:\Основы UML\Patterns\Chain of responsibility Pattern\obj\Debug\Chain of responsibility Pattern.csproj.SuggestedBindingRedirects.cache
+U:\Основы UML\Patterns\Chain of responsibility Pattern\obj\Debug\Chain of responsibility Pattern.csproj.CoreCompileInputs.cache
+U:\Основы UML\Patterns\Chain of responsibility Pattern\obj\Debug\Chain of responsibility Pattern.exe
+U:\Основы UML\Patterns\Chain of responsibility Pattern\obj\Debug\Chain of responsibility Pattern.pdb
