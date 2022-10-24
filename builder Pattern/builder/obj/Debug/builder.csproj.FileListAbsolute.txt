@@ -1,0 +1,16 @@
+C:\Users\std\source\repos\builder\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+C:\Users\std\source\repos\builder\builder\obj\Debug\builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\std\source\repos\builder\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+C:\Users\std\source\repos\builder\builder\bin\Debug\builder.exe.config
+C:\Users\std\source\repos\builder\builder\bin\Debug\builder.exe
+C:\Users\std\source\repos\builder\builder\bin\Debug\builder.pdb
+C:\Users\std\source\repos\builder\builder\obj\Debug\builder.exe
+C:\Users\std\source\repos\builder\builder\obj\Debug\builder.pdb
+U:\Основы UML\builder\builder\bin\Debug\builder.exe.config
+U:\Основы UML\builder\builder\bin\Debug\builder.exe
+U:\Основы UML\builder\builder\bin\Debug\builder.pdb
+U:\Основы UML\builder\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+U:\Основы UML\builder\builder\obj\Debug\builder.csproj.SuggestedBindingRedirects.cache
+U:\Основы UML\builder\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+U:\Основы UML\builder\builder\obj\Debug\builder.exe
+U:\Основы UML\builder\builder\obj\Debug\builder.pdb
