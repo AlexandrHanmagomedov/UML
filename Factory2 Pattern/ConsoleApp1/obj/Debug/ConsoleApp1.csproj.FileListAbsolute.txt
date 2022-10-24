@@ -1,0 +1,24 @@
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\std\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+U:\Основы UML\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+U:\Основы UML\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+U:\Основы UML\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+U:\Основы UML\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+U:\Основы UML\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+U:\Основы UML\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+U:\Основы UML\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+U:\Основы UML\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\downloads\Основы UML\Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
