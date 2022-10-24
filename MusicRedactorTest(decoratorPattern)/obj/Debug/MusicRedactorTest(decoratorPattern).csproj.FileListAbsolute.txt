@@ -1,0 +1,8 @@
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\bin\Debug\MusicRedactorTest(decoratorPattern).exe.config
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\bin\Debug\MusicRedactorTest(decoratorPattern).exe
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\bin\Debug\MusicRedactorTest(decoratorPattern).pdb
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\obj\Debug\MusicRedactorTest(decoratorPattern).csproj.AssemblyReference.cache
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\obj\Debug\MusicRedactorTest(decoratorPattern).csproj.SuggestedBindingRedirects.cache
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\obj\Debug\MusicRedactorTest(decoratorPattern).csproj.CoreCompileInputs.cache
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\obj\Debug\MusicRedactorTest(decoratorPattern).exe
+U:\Основы UML\Patterns\MusicRedactorTest(decoratorPattern)\obj\Debug\MusicRedactorTest(decoratorPattern).pdb
