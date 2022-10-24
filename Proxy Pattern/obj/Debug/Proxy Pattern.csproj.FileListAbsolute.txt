@@ -1,0 +1,13 @@
+U:\Основы UML\Patterns\Proxy Pattern\bin\Debug\Proxy Pattern.exe.config
+U:\Основы UML\Patterns\Proxy Pattern\bin\Debug\Proxy Pattern.exe
+U:\Основы UML\Patterns\Proxy Pattern\bin\Debug\Proxy Pattern.pdb
+U:\Основы UML\Patterns\Proxy Pattern\bin\Debug\EntityFramework.dll
+U:\Основы UML\Patterns\Proxy Pattern\bin\Debug\EntityFramework.SqlServer.dll
+U:\Основы UML\Patterns\Proxy Pattern\bin\Debug\EntityFramework.xml
+U:\Основы UML\Patterns\Proxy Pattern\bin\Debug\EntityFramework.SqlServer.xml
+U:\Основы UML\Patterns\Proxy Pattern\obj\Debug\Proxy Pattern.csproj.AssemblyReference.cache
+U:\Основы UML\Patterns\Proxy Pattern\obj\Debug\Proxy Pattern.csproj.SuggestedBindingRedirects.cache
+U:\Основы UML\Patterns\Proxy Pattern\obj\Debug\Proxy Pattern.csproj.CoreCompileInputs.cache
+U:\Основы UML\Patterns\Proxy Pattern\obj\Debug\Proxy Pattern.csproj.CopyComplete
+U:\Основы UML\Patterns\Proxy Pattern\obj\Debug\Proxy Pattern.exe
+U:\Основы UML\Patterns\Proxy Pattern\obj\Debug\Proxy Pattern.pdb
