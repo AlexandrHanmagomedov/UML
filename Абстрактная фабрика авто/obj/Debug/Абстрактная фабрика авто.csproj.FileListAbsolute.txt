@@ -1,0 +1,8 @@
+U:\Основы UML\Patterns\Абстрактная фабрика авто\bin\Debug\Абстрактная фабрика авто.exe.config
+U:\Основы UML\Patterns\Абстрактная фабрика авто\bin\Debug\Абстрактная фабрика авто.exe
+U:\Основы UML\Patterns\Абстрактная фабрика авто\bin\Debug\Абстрактная фабрика авто.pdb
+U:\Основы UML\Patterns\Абстрактная фабрика авто\obj\Debug\Абстрактная фабрика авто.csproj.AssemblyReference.cache
+U:\Основы UML\Patterns\Абстрактная фабрика авто\obj\Debug\Абстрактная фабрика авто.csproj.SuggestedBindingRedirects.cache
+U:\Основы UML\Patterns\Абстрактная фабрика авто\obj\Debug\Абстрактная фабрика авто.csproj.CoreCompileInputs.cache
+U:\Основы UML\Patterns\Абстрактная фабрика авто\obj\Debug\Абстрактная фабрика авто.exe
+U:\Основы UML\Patterns\Абстрактная фабрика авто\obj\Debug\Абстрактная фабрика авто.pdb
